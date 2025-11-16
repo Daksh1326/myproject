@@ -53,6 +53,7 @@ header {
 .hero {
     padding: 2em;
     text-align: center;
+	color: black;
 }
 
 .services {
@@ -70,4 +71,5 @@ header {
     display: flex;
     flex-direction: column;
     color: #fff;
+
 }
